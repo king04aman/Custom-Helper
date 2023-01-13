@@ -1,4 +1,4 @@
-# Custom Helper Commands
+# [Custom Helper Commands](https://top.gg/bot/714637226629267458)
 This bot will help you in customs in many ways. You can find all commands by typing **`$help`** in any text channels. Few commands are listed below...
 
 ## General Commands
